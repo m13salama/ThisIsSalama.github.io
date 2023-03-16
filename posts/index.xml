@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>http://ThisIsSalama.github.io/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2023 12:31:01 +0200</lastBuildDate><atom:link href="http://ThisIsSalama.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me</title>
+      <link>http://ThisIsSalama.github.io/posts/me/</link>
+      <pubDate>Thu, 16 Mar 2023 12:31:01 +0200</pubDate>
+      
+      <guid>http://ThisIsSalama.github.io/posts/me/</guid>
+      <description>helloooooooooo</description>
+    </item>
+    
+    <item>
+      <title>HackTrick23 Journey</title>
+      <link>http://ThisIsSalama.github.io/posts/hacktrick23_journey/</link>
+      <pubDate>Thu, 16 Mar 2023 09:57:49 +0200</pubDate>
+      
+      <guid>http://ThisIsSalama.github.io/posts/hacktrick23_journey/</guid>
+      <description>Welcome&amp;hellip; That&amp;rsquo;s our short journey with Hacktrick this year be ready for some useful information and a lot of drama. First what is hacktrick??
+Hacktrick is a hackathon organized by Dell that took place in Egypt. The hackathon aimed to bring together young innovators and developers to work on real-world challenges and create innovative solutions using technology.
+This year the hackathon was about AI, cybercecurity and optimization, the problem in short is that you enter a maze (10*10) at the top left corner and the exit is at bottom right corner inside the maze there are 4 children you want to rescue, to rescue a child you need to solve a riddle and the score depends on the number of children you rescued, how many steps you took, and the time to solve the riddles and there is a rule that if you didn&amp;rsquo;t exit at the bottom right corner you will get only 80% of the score finalyy you have 5 submissions and your best one is taken into account.</description>
+    </item>
+    
+  </channel>
+</rss>
